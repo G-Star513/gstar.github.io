@@ -1,0 +1,26 @@
+.list{
+    padding: 70px 0px 50px;
+    font-weight: bold;
+}
+@media(min-width: 992px){
+
+}
+
+@media(min-width: 768px) and (max-width:991px){
+
+}
+
+@media(min-width: 575px) and (max-width: 767px){
+
+}
+
+@media(min-width: 480px) and (max-width: 574px){
+
+}
+
+@media(max-width: 479px){
+    .list{
+        margin-left: 0%;
+        font-size: 15px;
+    }
+}

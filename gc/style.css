@@ -1,0 +1,18 @@
+img{
+    width: 100%;
+    height: auto;
+    padding: 0px 0px 50px;
+}
+.gc h1{
+    color: green;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.gallery img{
+    filter: grayscale(100%);
+    transition: 1s;
+}
+.gallery img:hover{
+    filter: grayscale(0);
+    transform: scale(1.1);
+}

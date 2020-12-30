@@ -1,0 +1,65 @@
+.oursevices{
+    padding: 100px 0px 20px;
+    height: 700px;
+}
+.oursevices h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.rowsetting{
+    margin: 50px 0px !important;
+}
+.imgset{
+    border-radius: 20%;
+    height: 100px;
+    width: 100px;
+}
+.fa-joomla{
+    margin-top: 25px;
+}
+.fa-cutlery{
+    margin-top: 25px;
+}
+.fa-map{
+    margin-top: 25px;
+}
+.fa-wpforms{
+    margin-top: 25px;
+}
+.fa-leanpub{
+    margin-top: 25px;
+}
+.fa-dropbox{
+    margin-top: 25px;
+}
+.fa-square{
+    margin-top: 25px;
+}
+.fa-file-text-o{
+    margin-top: 25px;
+}
+.fa-fa-smile-o{
+    margin-top: 25px;
+}
+
+@media(min-width: 992px){
+
+}
+
+@media(min-width: 768px) and (max-width:991px){
+
+}
+
+@media(min-width: 575px) and (max-width: 767px){
+
+}
+
+@media(min-width: 480px) and (max-width: 574px){
+
+}
+
+@media(max-width: 479px){
+    .oursevices{
+        height: 1100px;
+    }
+}
